@@ -1,1 +1,1 @@
-print('Conejo verde')
+print('Conejo rojo')
